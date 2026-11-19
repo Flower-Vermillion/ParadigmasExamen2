@@ -1,0 +1,10 @@
+co.edu.poli.Examen2.aplicacion.puerto.entrada
+co.edu.poli.Examen2.aplicacion.puerto.salida
+co.edu.poli.Examen2.aplicacion.servicio
+co.edu.poli.Examen2.dominio
+co.edu.poli.Examen2.dominio.builder
+co.edu.poli.Examen2.dominio.chain
+co.edu.poli.Examen2.infraestructura.persistencia
+co.edu.poli.Examen2.infraestructura.persistencia.decorator
+co.edu.poli.Examen2.infraestructura.ui
+co.edu.poli.Examen2.vista
